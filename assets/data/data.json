@@ -1,30 +1,46 @@
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
-    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
+    "title": "Matias del Señor| Portafolio",
+    "description": "description change.",
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "name": "Matias del Señor",
+    "skill": "Software Developer",
+    "location": "Buenos Aires, Argentina",
     "media": {
-        "email": "neo@metacortex.com",
+        "email": "matiasdlsr@gmail.com",
         "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+        "github": "https://github.com/matiasdlsr",
+        "likedin": "https://linkedin.com/in/matiasdlsr"
     },
     "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
     "technologies": [
         {
             "icon": "devicon-devicon-plain",
-            "name": "Binario"
+            "name": "HTML"
         },
         {
             "icon": "devicon-devicon-plain",
-            "name": "Ensamblador"
+            "name": "CSS"
         },
         {
             "icon": "devicon-devicon-plain",
-            "name": "COBOL"
+            "name": "JavaScript"
+        },
+        {
+            "icon": "devicon-devicon-plain",
+            "name": "NodeJS"
+        },
+        {
+            "icon": "devicon-devicon-plain",
+            "name": "MongoDB"
+        },
+        {
+            "icon": "devicon-devicon-plain",
+            "name": "ReactJS"
+        },
+        {
+            "icon": "devicon-devicon-plain",
+            "name": "ExpressJS"
         },
         {
             "icon": "devicon-c-plain",
@@ -54,55 +70,67 @@
     "projects": [
         {
             "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
+            "title": "mi Guardia",
+            "subtitle": "Proyecto para Fundacion Pescar - JP Morgan",
+            "description": "Softaware dedicado a la visualizacion de los estados de las guardias medicas en tiempo real",
             "technologies": [
                 {
                     "icon": "devicon-python-plain",
-                    "name": "Python"
+                    "name": "JavaScript"
                 },
                 {
                     "icon": "devicon-django-plain",
-                    "name": "Django"
+                    "name": "NodeJS"
+                },
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "MongoDB"
                 }
             ],
             "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
+            "url": "url",
+            "github": "https://github.com/Matiasdlsr/miGuardia"
         },
         {
             "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
+            "title": "JP Morgan Mentors activity",
+            "subtitle": "Actividad ludica ",
+            "description": "Ruletas y cards utilizadas para la presentacion entre mentores y mentees",
             "technologies": [
                 {
                     "icon": "devicon-devicon-plain",
-                    "name": "Binario"
+                    "name": "JavaScript"
+                },
+                {
+                    "icon": "devicon-devicon-plain",
+                    "name": "HTML"
+                },
+                {
+                    "icon": "devicon-devicon-plain",
+                    "name": "CSS"
                 }
             ],
             "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
+            "url": "https://matiasdlsr.github.io/JPMorgan-Mentores/",
+            "github": "https://github.com/Matiasdlsr/JPMorgan-Mentores"
         }
     ],
     "training": [
         {
             "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "title": "Ingenieria Informatica - 3er año ",
+            "subtitle": "Universidad Nacional de La Matanza (UNLAM)",
+            "description": "Análisis de sistemas, requisitos y requerimientos (Historias de usuario y casos de uso), Algoritmos y estructuras de datos, Patrones de diseño y patrones de arquitectura",
+            "date": "2020 - actualidad",
+            "certificate": "url"
         },
         {
             "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "title": "Programacion Web Full Stack ",
+            "subtitle": "Educacion IT - Fundacion Pescar - JP Morgan",
+            "description": "Maquetación web, desarrollo de interfaces responsivasProgramación orientada a objetos, Análisis de datos Desarrollo de competencias interpersonales, Patrones de diseño, Patrones de arquitectura",
+            "date": "03/2024  - 10/2024",
+            "certificate": "url"
         }
     ],
     "extras": [
